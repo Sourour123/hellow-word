@@ -1,3 +1,3 @@
-# hellow-word
+# hello-word
 juste another repository
 hi humans
